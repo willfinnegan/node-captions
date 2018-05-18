@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "time-grunt": "^0.3.1",
-    "load-grunt-tasks": "^0.4.0",
+    "load-grunt-tasks": "^3.1.0",
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-jsbeautifier": "^0.2.10",
@@ -26,8 +26,7 @@
     "mocha": "^1.19.0",
     "grunt-mocha-istanbul": "^1.4.1",
     "jsdoc": "^3.3.0-alpha5",
-    "grunt-jsdoc": "^0.5.4",
-    "load-grunt-tasks": "^3.1.0"
+    "grunt-jsdoc": "^0.5.4"
   },
   "directories": {
     "test": "test"
